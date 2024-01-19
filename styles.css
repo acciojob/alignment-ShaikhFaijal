@@ -5,12 +5,19 @@ h1{
 #table-1 >tr,td{
 	border: 1px solid black;
 }
-#table-1 {
+.middle{
+	margin-top:20px;
 	border: 1px solid black;
-	
 	width:100%;
 }
 .center{
 	text-align:center;
 }
 .right{ text-align:right;}
+.blue{background-color:blue;}
+.green{background-color:green;
+}
+img{
+	display:block;
+	margin:auto;
+}
